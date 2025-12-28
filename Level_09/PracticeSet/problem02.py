@@ -1,0 +1,1 @@
+# The game() function in a program let's a user play a game and returns the score as an iteger. You need to read a file "Hi-score.txt" which is either blank or contains the previous hi-score. You need to write a program to update the Hi-score whenever the game() function breaks the Hi-score.+
